@@ -1,2 +1,2 @@
-# Dream-Movies
+# DreamMovies
 All Indian Movies in Hindi.
